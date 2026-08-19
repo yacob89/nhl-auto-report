@@ -28,6 +28,14 @@ limitations under the License.
 
 Every modern sports organization, media analyst, and sports performance group relies heavily on data spreadsheets to record game metrics, track team performance, evaluate rest intervals, and analyze home versus away trends. However, converting thousands of raw transactional game rows into executive-ready presentation decks is historically a manual, error-prone, and time-consuming bottleneck. Furthermore, standard web scripts edited directly in browser IDEs often produce dull data dumps, lack visual polish, and turn into unmaintainable legacy script debt over time.
 
+Import CSV or existing excel table or use existing google sheets & Generate Report from menu
+<img width="3354" height="1958" alt="chrome_hlezr98wDF" src="https://github.com/user-attachments/assets/8c7c3b36-dc0c-4829-991f-92c756b57cc0" />
+
+<img width="3357" height="1963" alt="chrome_NhysoSZ4a1" src="https://github.com/user-attachments/assets/1b493738-2b24-4dd9-a47e-7c39b5900de7" />
+
+Report Generated:
+<img width="3090" height="1949" alt="chrome_oHmJSy20X2" src="https://github.com/user-attachments/assets/cc318784-dcb4-4c79-a2f1-847f1f745edf" />
+
 **This project elevates Google Workspace automation into an enterprise-grade software engineering discipline.**
 
 Instead of relying on fragile, uncompiled scripts, this portfolio application treats Google Apps Script as a compiled, fully-typed deployment target. Built with TypeScript, bundled using Rollup, and tested with Jest, it transforms multi-dimensional NHL game datasets into high-impact Google Slides presentation decks—complete with executive KPI callout cards, visual progress bars, and dynamic embedded Google Sheets charts wrapped in an automated multi-environment deployment pipeline (`clasp`).
